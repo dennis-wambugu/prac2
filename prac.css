@@ -1,0 +1,35 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: brown;
+    font-style: normal;
+    border: 5px red solid;
+    text-align: center;
+
+}
+body{
+    background-color: gray;
+    border: 20px groove ;
+    padding: 20px;
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+        border: 5px red solid;
+        padding: 20px;
+    }
+}h2{
+    color: black;
+    font-size: 30px;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#para{
+    background-color: red;
+}
+button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: blue;
+    text
+}
